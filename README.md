@@ -6,4 +6,5 @@
  and how long you are going to live
  (the app has a map with the life expectancy of the world).
  After that, add the app to the startup and every day you will see your progress.
-![Main window](link-to-image)
+ 
+![](https://github.com/deltay-tech/LIVEwallpaper/blob/master/main.png)
